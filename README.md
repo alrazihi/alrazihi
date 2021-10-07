@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alrazihi
 - 👀 I’m interested in software,maching learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on AI & ML
 - 📫 How to reach me Linkedin 
 https://www.linkedin.com/in/towfik-alrazihi-b880a368/
 
