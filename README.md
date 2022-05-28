@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Alrazihi, the first with this name.
+### 👋 Hi there, I'm Alrazihi.
 ![Java](https://img.shields.io/badge/Java-Expert-blue?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=Python)
 ![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react)
