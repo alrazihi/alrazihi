@@ -22,7 +22,7 @@ I am an IT MANAGER and a Site Reliability Engineer/DevOps managing and building 
 
 - 💻 I’m currently at aeneom. 
 - 🔭 I write Java, Python and javascript (NodeJS), in addition to infrastructural management tools.
-- ⚡ Fun fact: I am software advocate.
+- ⚡ Fun fact: EVERY THING BECOMES EASIER WITH TIME.
 
 ### 📫 Reach me at 
 
