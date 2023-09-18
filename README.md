@@ -28,6 +28,6 @@ I am an IT MANAGER and a Site Reliability Engineer/DevOps managing and building 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alrazihi?style=social)](https://twitter.com/alrazihi)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/towfik-alrazihi-b880a368/)
-[![Email](https://img.shields.io/badge/-admin@aeneom.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:admin@aeneom.com)](mailto:admin@aeneom.com)
+[![Email](https://img.shields.io/badge/-admin@aeneom.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:admin@aeneom.com)](mailto:one@dowft.com)
 
-Checkout my [portfolio website](https://aeneom.com)🔗🔗
+Checkout my [portfolio website](https://sowft.com)🔗🔗
