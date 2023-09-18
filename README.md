@@ -18,13 +18,12 @@
 ![kubernetes](https://img.shields.io/badge/Kubernetes-intermediate-red?style=for-the-badge&logo=kubernetes)
 ...
 
-I am an IT MANAGER and a Site Reliability Engineer/DevOps managing and building distributed systems and also building tools to ease manage them.
+I am a seasoned IT Manager and Site Reliability Engineer/DevOps specialist, dedicated to the meticulous management and construction of distributed systems while simultaneously creating sophisticated tools for their efficient administration.
 
-- 💻 I’m currently at aeneom. 
-- 🔭 I write Java, Python and javascript (NodeJS), in addition to infrastructural management tools.
-- ⚡ Fun fact: EVERYTHING BECOMES EASIER WITH TIME.
-
-### 📫 Reach me at 
+💼 I am currently employed at Aeneom, where I lead and innovate in the realm of IT.
+💻 My technical proficiency spans Java, Python, and JavaScript (NodeJS), coupled with a mastery of infrastructural management tools.
+⚡ Fun fact: I firmly believe that persistence and time make everything attainable.
+📧 You may reach out to me at
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alrazihi?style=social)](https://twitter.com/alrazihi)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/towfik-alrazihi-b880a368/)
