@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Towfik Alrazihi
+ ### 👋 Hi there, I'm Towfik Alrazihi
 
 ![Java](https://img.shields.io/badge/Java-Expert-blue?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=Python)
@@ -36,6 +36,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alrazihi?style=social)](https://twitter.com/alrazihi)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/towfik-alrazihi-b880a368/)  
-[![Email](https://img.shields.io/badge/-admin@aeneom.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:admin@aeneom.com)](mailto:admin@aeneom.com)
+[![Email](https://img.shields.io/badge/-admin@aeneom.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:admin@aeneom.com)](mailto:one@sowft.com)
 
 🌐 Visit my [portfolio website](https://sowft.com) for more. 🔗
