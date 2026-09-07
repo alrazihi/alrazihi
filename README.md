@@ -1,8 +1,6 @@
 # Hi there 👋
 
-Hi! I'm **Tawfik Alrazihi** (alrazihi).
-
-## Changing the World, One Bit at a Time
+Hi, I'm **Tawfik Alrazihi** (alrazihi).
 
 I'm a software engineer focused on building reliable, maintainable applications.
 
