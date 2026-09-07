@@ -1,6 +1,10 @@
 # Hi there 👋
 
-I'm **Tawfik Alrazihi** (alrazihi), a software engineer focused on building reliable, maintainable applications.
+Hi! I'm **Tawfik Alrazihi** (alrazihi).
+
+## Changing the World, One Bit at a Time
+
+I'm a software engineer focused on building reliable, maintainable applications.
 
 ## Tech Stack
 
@@ -39,6 +43,10 @@ I'm interested in:
 - Developer tooling and documentation
 - Open source contributions
 - Fitness technology and sensor-based classification
+
+## Archived Learning & Discovery Projects
+
+Older experimental projects and learning exercises are archived for reference. These include forks of popular libraries (TensorFlow, sqlmap, LibreOffice, etc.) and early prototypes used for skill development.
 
 ## Connect
 
