@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi there
 
 Hi, I'm **Tawfik Alrazihi** (alrazihi).
 
-I'm a software engineer focused on building reliable, maintainable applications.
+I'm a software engineer focused on building reliable, maintainable applications — with a strong emphasis on event-driven architecture, enterprise integration, and scalable backend systems.
 
 ## Tech Stack
 
@@ -14,37 +14,48 @@ I'm a software engineer focused on building reliable, maintainable applications.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-416D90?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496EB?style=flat&logo=docker&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-00ACD7?style=flat&logo=grpc&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium-CC0000?style=flat&logo=debezium&logoColor=white)
 
-## Pinned Projects
+## Reference Projects
 
 ### [civora](https://github.com/alrazihi/civora)
 A **civic intelligence platform** for community-driven governance and engagement — built with Go, gRPC, and PostgreSQL.
 
-### [sport-move-detector](https://github.com/alrazihi/sport-move-detector)
-A fitness tracking app using accelerometer-based activity classification with zero-crossing detection (STILL, WALK, RUN, SPRINT).
+### [meridian-workflow-engine](https://github.com/alrazihi/meridian-workflow-engine)
+Enterprise document workflow engine with hexagonal architecture, ADRs, threat model, OpenAPI, Flyway migrations, and Testcontainers-based integration tests.
 
-### [quran-app-expo](https://github.com/alrazihi/quran-app-expo)
-A Quran reading app built with Expo showcasing surahs with Arabic text, translations, audio playback, and bookmark support.
+### [meridian-event-platform](https://github.com/alrazihi/meridian-event-platform)
+Event-driven architecture reference implementing CDC with Debezium, Kafka, and schema-first design. Includes docker-compose, ADRs, and domain modeling.
 
-## Learning & Experiments
+### [gemini-agent-toolkit](https://github.com/alrazihi/gemini-agent-toolkit)
+AI agent framework with memory, evaluation, observability, and guardrails — designed for testing and learning agentic patterns.
 
-- [angular-17-tutorial](https://github.com/alrazihi/angular-17-tutorial) — Angular 17 + MSAL authentication tutorial
-- [ai-agents-playground](https://github.com/alrazihi/ai-agents-playground) — Experimental AI agents framework for testing
-- [quantum-lab-demos](https://github.com/alrazihi/quantum-lab-demos) — Educational quantum computing demonstrations
-- [sulter-experiments](https://github.com/alrazihi/sulter-experiments) — Utility scripts and small tools
+### [react-native-activity-classifier](https://github.com/alrazihi/react-native-activity-classifier)
+On-device activity classification using accelerometer data with zero-crossing detection and benchmarked ML pipelines.
+
+### [multilingual-ocr-service](https://github.com/alrazihi/multilingual-ocr-service)
+OCR service with benchmarking, CI/CD, and production-ready packaging for multilingual text extraction.
+
+### [nextjs-genkit-productivity](https://github.com/alrazihi/nextjs-genkit-productivity)
+Productivity application built with Next.js and Genkit, showcasing AI-assisted workflows and modern full-stack patterns.
+
+### [enterprise-architecture-patterns](https://github.com/alrazihi/enterprise-architecture-patterns)
+Curated catalog of enterprise architecture patterns, trade-off analyses, and decision records.
+
+### [database-migration-playbook](https://github.com/alrazihi/database-migration-playbook)
+Production-grade database migration strategies, rollback procedures, and zero-downtime deployment patterns.
+
+### [hybrid-cloud-infra](https://github.com/alrazihi/hybrid-cloud-infra)
+Infrastructure as Code and hybrid-cloud deployment patterns for enterprise workloads.
 
 ## Professional Focus
 
-I'm interested in:
-- Backend systems and API design (Go, gRPC, REST)
-- Mobile development (React Native, Expo)
-- Developer tooling and documentation
-- Open source contributions
-- Fitness technology and sensor-based classification
-
-## Archived Learning & Discovery Projects
-
-Older experimental projects and learning exercises are archived for reference. These include forks of popular libraries (TensorFlow, sqlmap, LibreOffice, etc.) and early prototypes used for skill development.
+- Enterprise integration and event-driven systems (Kafka, Debezium, gRPC)
+- Hexagonal/clean architecture and domain-driven design
+- Scalable backend APIs and microservices (Go, TypeScript, Python)
+- Mobile ML and on-device inference (React Native, TFLite)
+- Developer tooling, CI/CD, and infrastructure automation
 
 ## Connect
 
